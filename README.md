@@ -10,6 +10,7 @@
    * Tutorial https://keytopia.org/
    * Practice https://typingmentor.com/lessons/right-hand
    * Test https://smart-type.com/
+   * Test https://keyrace.tooleek.com/en/
 
 ## Webapp code
    * Test http://www.speedcoder.net/  
