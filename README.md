@@ -11,6 +11,7 @@
    * Practice https://typingmentor.com/lessons/right-hand
    * Test https://smart-type.com/
    * Test https://keyrace.tooleek.com/en/
+   * Test https://fastfingerrace.com/en
 
 ## Webapp code
    * Test http://www.speedcoder.net/  
